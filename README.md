@@ -6,15 +6,15 @@ https://a.coderheroes.dev/
 
 <h3>[Tech Stack]</h3>
 [MIT](https://img.shields.io/packagist/l/doctrine/orm.svg) <br>
-[antd](https://img.shields.io/badge/antd-v^4.4.3-green.svg)
-[Axios](https://img.shields.io/badge/Axios-v^0.21.1-yellow.svg)
-[code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
-[Less](https://img.shields.io/badge/Less-v^1.17.0-ff69b4.svg)
-[Okta](https://img.shields.io/badge/Okta-v^3.0.2-red.svg)
-[React](https://img.shields.io/badge/react-v16.13.1--alpha.2-blue.svg) 
-[react-router-dom](https://img.shields.io/badge/react--router--dom-v^5.2.0-blue.svg)  
-[redux](https://img.shields.io/badge/redux-v^4.1.2-yellow.svg)
-[redux-thunk](https://img.shields.io/badge/redux--thunk-v^2.4.0-yellow.svg)
+[antd](https://img.shields.io/badge/antd-v^4.4.3-green.svg)<br>
+[Axios](https://img.shields.io/badge/Axios-v^0.21.1-yellow.svg)<br>
+[code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)<br>
+[Less](https://img.shields.io/badge/Less-v^1.17.0-ff69b4.svg)<br>
+[Okta](https://img.shields.io/badge/Okta-v^3.0.2-red.svg)<br>
+[React](https://img.shields.io/badge/react-v16.13.1--alpha.2-blue.svg) <br>
+[react-router-dom](https://img.shields.io/badge/react--router--dom-v^5.2.0-blue.svg)  <br>
+[redux](https://img.shields.io/badge/redux-v^4.1.2-yellow.svg)<br>
+[redux-thunk](https://img.shields.io/badge/redux--thunk-v^2.4.0-yellow.svg)<br>
 
 <h3>[Tech Stack; Back end]</h3>
 • Docker • Node.js • Express • Okta
