@@ -2,7 +2,7 @@
 https://a.coderheroes.dev/
 <p>This is an ongoing project for a genuine coding school. Coderheroes intends to bring code to K-12 education so that Computer Science is more accessible at the univeristy level.</p>
 
-<p>I spent two months developing this project with an AGILE team. I was one of four Team Leads and we managed twelve other developers amongst us. I led my party through Stripe and Okta implementation as well as other, more granular features. We worked closely with a separate backend party and often exchanged BE/FE responsibilites. In addition to coding, I was assigned to scope work for my teammates and present our implemented code each sprint.</p>
+<p>I spent two months developing this project with an AGILE team. I was one of four Team Leads and we managed twelve other developers amongst us. I led my party through Stripe and Okta implementation as well as other, more granular features. We worked closely with a separate backend party and often exchanged BE/FE responsibilites. In addition to coding, I was assigned the duty of scoping work for my teammates as well as presenting this code as it was implemented each sprint.</p>
 
 <h3>[Tech Stack]</h3>
 ![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
